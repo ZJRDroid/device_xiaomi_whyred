@@ -1,7 +1,7 @@
 [
   {
-    "repository" : "vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
+    "repository" : "Keertesh19/vendor_xiaomi_whyred",
+    "target_path": "vendor/xiaomi/whyred",
     "branch": "ten"
   },
   {
